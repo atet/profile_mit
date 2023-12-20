@@ -1,10 +1,10 @@
-# [atet](https://github.com/atet) / [**_profile_mit_**](https://github.com/atet/profile_mit/blob/main/README.md#atet--profile_mit)
+# [atet](https://github.com/atet) / [**_profile_mit_2023_**](https://github.com/atet/profile_mit_2023/blob/main/README.md#atet--profile_mit_2023)
 
 # [Athit Kao, PhD](https://www.athitkao.com)
 
 [![.img/mitllbwsi_logo.png](.img/mitllbwsi_logo.png)](https://beaverworks.ll.mit.edu/CMS/bw/)
 
-Content for Dr. Athit Kao's invited talk at MIT representing [RTX (formerly Raytheon Technologies)](https://www.rtx.com/).
+Content for Dr. Athit Kao's invited keynote at MIT representing [RTX (formerly Raytheon Technologies)](https://www.rtx.com/).
 
 --------------------------------------------------------------------------------------------------
 
